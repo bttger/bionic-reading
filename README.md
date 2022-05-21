@@ -1,6 +1,11 @@
 # Bionic Reading
 
+This is just a quick prototype of the bionic reading process.
+
 Try it out in the Svelte REPL: https://svelte.dev/repl/0a8e577c26094e1da31c4bd5310acedf?version=3.48.0
+
+> Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points. As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word. In a digital world dominated by shallow forms of reading, Bionic Reading aims to encourage a more in-depth reading and understanding of written content. Renato Casutt
+
 
 ## Get started
 
